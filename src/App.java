@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
 
-        Pedido p1 = new Pedido("Josue Bailon", "PS5", 2500, "jb@gmail.com");
+        Pedido p1 = new Pedido("Marco Andrade", "PS5", 95, "maandradeq1@gmail.com", "099856332547");
 
         PedidoService service = new PedidoService();
 
